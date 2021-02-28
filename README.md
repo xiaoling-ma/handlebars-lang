@@ -1,0 +1,2 @@
+# handlebars-lang
+test
